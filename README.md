@@ -11,12 +11,12 @@ To begin this exploratory analysis, first to import libraries and define functio
 ## TOPIC
 
 ### Data Cleaning:
-Deleting redundant columns.
-Renaming the columns.
-Remove the NaN values from the dataset.
-Cleaning individual columns.
-Dropping duplicates.
-Check for some more Transformations.
+* Deleting redundant columns.
+* Renaming the columns.
+* Remove the NaN values from the dataset.
+* Cleaning individual columns.
+* Dropping duplicates.
+* Check for some more Transformations.
 
 ### Data Visualization:
 * How many restaurants accpeting online order for zomato?
