@@ -3,3 +3,29 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 
 * This dataset containing information of food restraunts in banglaore who are working with Zomato.The data was scraped from Zomato in two phase. After going through the structure of the website.
 * I found for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars. So, here we are trying to find the best restaurants for customer depends on their need.
+
+## My Findings
+1) How many restaurants accpeting online order for zomato?
+
+2) Find best location by seeing dataset.
+
+3) Find Types of restraunts and their count.
+
+4) Find count of restaurants have table boking facility.
+
+5) Find number of restaurant at given location.
+
+6) Find most famous restaurants chains(like Franchise(Rastaurants having more than one branch) in Bangalore.
+
+7) Find how many voters gives rating for each 'type' and aggregate rating of that 'type'.
+
+8) Gaussian Rest Type(Normal Distribution) of Rating.
+
+9) Find the how many Restaurants havign Chinese and North Indian food in their food type.
+
+10) Most famous restaurant chains in Bengaluru(No. of restaurants)
+
+11) Find the most profitable type of restaurant.
+
+## Exploratory Analysis
+To begin this exploratory analysis, first to import libraries and define functions for plotting the data. Depending on the data
